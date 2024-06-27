@@ -1,1 +1,1 @@
-ES6 Classes
+My First ES6 Classes
